@@ -4,12 +4,14 @@
 
 Vite + React + Redux + Shadcn + Tailwind v4, full responsive UI Admin Dashbaord template, **Free & Open Source**
 
-[![support](https://img.shields.io/badge/Support-black?style=for-the-badge&logo=Patreon&logoColor=white)](https://www.patreon.com/elmarjanihamza/gift)
+[![support](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/elmarjanihamza/gift)
 [![Vite](https://img.shields.io/badge/Vite-violet?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev)
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
 [![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)](https://ui.shadcn.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://ui.shadcn.com/)
+
+## 🖥️ [Live Demo](https://mahal-dashboard.vercel.app/)
 
 </div>
 
