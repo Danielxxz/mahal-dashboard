@@ -10,6 +10,7 @@ export class APICrud {
    * @returns: Promise `boolean`, you can return anything.
    */
   async updateProduct({ product }: { product: Product }): Promise<boolean> {
+    console.log(product);
     await delay(1000);
     return true;
   }
